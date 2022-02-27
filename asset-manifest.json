@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/GithubTypehead/static/css/main.1e3f9a8b.css",
+    "main.js": "/GithubTypehead/static/js/main.55ed5897.js",
+    "static/media/Octocat.png": "/GithubTypehead/static/media/Octocat.363cb5edea582a89c41f.png",
+    "index.html": "/GithubTypehead/index.html",
+    "main.1e3f9a8b.css.map": "/GithubTypehead/static/css/main.1e3f9a8b.css.map",
+    "main.55ed5897.js.map": "/GithubTypehead/static/js/main.55ed5897.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e3f9a8b.css",
+    "static/js/main.55ed5897.js"
+  ]
+}
