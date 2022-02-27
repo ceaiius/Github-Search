@@ -6,12 +6,12 @@ function Form(props){
             <form onSubmit={props.handleSubmit}>
                 <input type="text"
                     name="name"
-                    autocomplete="off" 
+                    autoComplete="off" 
                     required 
                       
                     onChange={props.handleChange}
                 />
-                <label for="name" className="label-name">
+                <label htmlFor="name" className="label-name">
                     <span className="content-name">Username</span>
                 </label>
                 
